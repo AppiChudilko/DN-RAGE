@@ -1,0 +1,22 @@
+{
+  "name": "virtual-client-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maksim Gutorov <vgfvgf12@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode production",
+    "watch": "webpack --mode production --watch --progress"
+  },
+  "devDependencies": {
+    "@mysql/xdevapi": "^8.0.18",
+    "@sucrase/webpack-loader": "^2.0.0",
+    "sucrase": "^3.10.1",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "lodash.chunk": "^4.2.0",
+    "mysql": "^2.17.1"
+  }
+}

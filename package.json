@@ -1,0 +1,30 @@
+{
+  "name": "dn-rage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lerp": "^1.0.3",
+    "mysql": "^2.17.1",
+    "watch": "^1.0.2",
+    "webhook-discord": "^3.5.1",
+    "webpack": "^4.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppiChudilko/DN-RAGE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AppiChudilko/DN-RAGE/issues"
+  },
+  "homepage": "https://github.com/AppiChudilko/DN-RAGE#readme",
+  "devDependencies": {
+    "@types/ragemp-c": "https://github.com/CocaColaBear/types-ragemp-c/tarball/master",
+    "@types/ragemp-s": "https://github.com/CocaColaBear/types-ragemp-s/tarball/master"
+  }
+}
