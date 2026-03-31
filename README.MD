@@ -3,5 +3,5 @@
 ---
 
 ### 📂 Project Resources
-* **Main Website:** [appi-rp.com](https://appi-rp.com)
+* **Player Here:** [appi-rp.com](https://appi-rp.com)
 * **Source Files (Google Drive):** [Download site.rar](https://drive.google.com/file/d/1kEGlBpb3QwvAtrLBVnUA8ICZBWM2yO3Y/view?usp=sharing)
